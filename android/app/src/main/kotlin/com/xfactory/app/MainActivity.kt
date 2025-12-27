@@ -1,0 +1,5 @@
+package com.xfactory.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
